@@ -1,0 +1,14 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›å²8¯ÀŞ¿1
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8³ÀŞ¿1
+Y
+java:S1854	"7Remove this useless assignment to local variable "obj".(³üãüÿÿÿÿ8»ÀŞ¿1
+J
+java:S1481	"(Remove this unused "obj" local variable.(³üãüÿÿÿÿ8»ÀŞ¿1
+G	java:S106"+Replace this use of System.out by a logger.(ßûÔÕ8¿ÀŞ¿1
+G	java:S106"+Replace this use of System.out by a logger.(ßûÔÕ8¿ÀŞ¿1
+G	java:S106"+Replace this use of System.out by a logger.(á‹²ç8ÃÀŞ¿1
+G	java:S106"+Replace this use of System.out by a logger.(¥şç8ÃÀŞ¿1
+L	java:S106"+Replace this use of System.out by a logger.(í”äûÿÿÿÿ8ÃÀŞ¿1
+G	java:S106"+Replace this use of System.out by a logger.(Ìœ¹Ê8ÇÀŞ¿1
